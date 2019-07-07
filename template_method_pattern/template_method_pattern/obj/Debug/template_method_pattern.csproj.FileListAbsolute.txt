@@ -1,0 +1,5 @@
+E:\PERSONAL\Interview_c#\template_method_pattern\template_method_pattern\bin\Debug\template_method_pattern.exe.config
+E:\PERSONAL\Interview_c#\template_method_pattern\template_method_pattern\bin\Debug\template_method_pattern.exe
+E:\PERSONAL\Interview_c#\template_method_pattern\template_method_pattern\bin\Debug\template_method_pattern.pdb
+E:\PERSONAL\Interview_c#\template_method_pattern\template_method_pattern\obj\Debug\template_method_pattern.exe
+E:\PERSONAL\Interview_c#\template_method_pattern\template_method_pattern\obj\Debug\template_method_pattern.pdb

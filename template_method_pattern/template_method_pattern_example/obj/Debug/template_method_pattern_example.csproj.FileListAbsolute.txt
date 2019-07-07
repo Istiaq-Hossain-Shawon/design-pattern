@@ -1,0 +1,6 @@
+E:\PERSONAL\Interview_c#\template_method_pattern\template_method_pattern_example\bin\Debug\template_method_pattern_example.exe.config
+E:\PERSONAL\Interview_c#\template_method_pattern\template_method_pattern_example\bin\Debug\template_method_pattern_example.exe
+E:\PERSONAL\Interview_c#\template_method_pattern\template_method_pattern_example\bin\Debug\template_method_pattern_example.pdb
+E:\PERSONAL\Interview_c#\template_method_pattern\template_method_pattern_example\obj\Debug\template_method_pattern_example.csprojResolveAssemblyReference.cache
+E:\PERSONAL\Interview_c#\template_method_pattern\template_method_pattern_example\obj\Debug\template_method_pattern_example.exe
+E:\PERSONAL\Interview_c#\template_method_pattern\template_method_pattern_example\obj\Debug\template_method_pattern_example.pdb
