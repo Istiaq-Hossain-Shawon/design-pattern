@@ -2,12 +2,13 @@
 
 ## Builder Pattern - UML Diagram & Implementation
 
-https://dotnettricks.blob.core.windows.net/img/designpatterns/builder.png
+![uml_diagram](https://dotnettricks.blob.core.windows.net/img/designpatterns/builder.png)
 
-###Builder
 
-###ConcreteBuilder
+### Builder
 
-###Product
+### ConcreteBuilder
 
-###Director
+### Product
+
+### Director
