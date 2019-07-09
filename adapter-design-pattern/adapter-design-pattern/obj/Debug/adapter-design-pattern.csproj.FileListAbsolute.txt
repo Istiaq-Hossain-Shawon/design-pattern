@@ -1,0 +1,5 @@
+E:\PERSONAL\Interview_c#\adapter-design-pattern\adapter-design-pattern\bin\Debug\adapter-design-pattern.exe.config
+E:\PERSONAL\Interview_c#\adapter-design-pattern\adapter-design-pattern\bin\Debug\adapter-design-pattern.exe
+E:\PERSONAL\Interview_c#\adapter-design-pattern\adapter-design-pattern\bin\Debug\adapter-design-pattern.pdb
+E:\PERSONAL\Interview_c#\adapter-design-pattern\adapter-design-pattern\obj\Debug\adapter-design-pattern.exe
+E:\PERSONAL\Interview_c#\adapter-design-pattern\adapter-design-pattern\obj\Debug\adapter-design-pattern.pdb
