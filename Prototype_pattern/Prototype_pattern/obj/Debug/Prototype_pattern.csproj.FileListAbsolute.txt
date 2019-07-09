@@ -1,0 +1,5 @@
+E:\PERSONAL\Interview_c#\Prototype_pattern\Prototype_pattern\bin\Debug\Prototype_pattern.exe.config
+E:\PERSONAL\Interview_c#\Prototype_pattern\Prototype_pattern\bin\Debug\Prototype_pattern.exe
+E:\PERSONAL\Interview_c#\Prototype_pattern\Prototype_pattern\bin\Debug\Prototype_pattern.pdb
+E:\PERSONAL\Interview_c#\Prototype_pattern\Prototype_pattern\obj\Debug\Prototype_pattern.exe
+E:\PERSONAL\Interview_c#\Prototype_pattern\Prototype_pattern\obj\Debug\Prototype_pattern.pdb
