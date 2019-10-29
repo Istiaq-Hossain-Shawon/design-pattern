@@ -40,6 +40,8 @@ namespace factory_design_pattern
             Console.WriteLine("Card Type: {0}\nCredit Limit: {1}\nAnnual Charge: {2}",
                 creditCard.CardType, creditCard.CreditLimit, creditCard.AnnualCharge);
             Console.ReadKey();  
+            //another example
+            //Product :AirConditioner  Concrete Product: Cooling & Warming ,Creator:AirConditionerFactory, ConcreteFatory:CoolingFactory & WarmingFactory 
         }
     }
 }
